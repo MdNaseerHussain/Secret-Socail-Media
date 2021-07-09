@@ -1,3 +1,3 @@
-# Authentication-Secrets
+# Secret Social Media
 
-To inspect the code for the module, you can clone this repository and use git checkout to see the completed code for each lesson. If you don't remember how to do this, be sure to revisit the Git and GitHub module in the course.
+This is a social media website where you can anonymously share secrets with the rest of the world and read the secrets shared by others. You can register and login using Google or create an account directly.
